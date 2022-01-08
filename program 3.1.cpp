@@ -3,7 +3,7 @@
 #include <conio.h>
 int main()
 {
-	printf("Welcome to the World of programming");
+	printf("Welcome to the Programming world");
 	printf("\nThis is my first assignment");
 	return 0;
 }
